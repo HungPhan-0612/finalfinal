@@ -14,7 +14,7 @@ const faqData: FAQItem[] = [
   },
   {
     question: 'How do I search for a transaction?',
-    answer: 'Simply enter a wallet address or transaction hash in the search bar. BlockScan will fetch all related information from the blockchain.'
+    answer: 'Simply enter a wallet address or transaction hash in the search bar. CryptoPath will fetch all related information from the blockchain.'
   },
   {
     question: 'Can I track multiple addresses?',
